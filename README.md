@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Johan Suarez</h1>
 <h3 align="center">An aspiring software developer</h3>
 
-- 🔭 I’m currently working on [Spots](https://johansuarezr.github.io/se_project_spots/)
+- 🔭 I’m currently working on [WTWR](https://johansuarezr.github.io/se_project_express/)
 
 - 🌱 I’m currently learning **Full Stack Development**
 
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/johansuarezr](github.com/johansuarezr)
 
-- 💬 Ask me about **HTML/CSS and Javascript**
+- 💬 Ask me about **MERN Stack, Python, Software Engineering**
 
 - 📫 How to reach me **johansuarez1512@gmail.com**
 
